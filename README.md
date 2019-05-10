@@ -1,6 +1,7 @@
 <a href="https://ibb.co/2jdFhyW"><img src="https://i.ibb.co/vJkcqHV/2018-ARMS-Spikarna-in-situ-2018-11-07-B2.jpg" alt="2018-ARMS-Spikarna-in-situ-2018-11-07-B2" border="0"></a >
 
-<width="300" align="left">
+<img src="https://ibb.co/2jdFhyW"><img src="https://i.ibb.co/vJkcqHV/2018-ARMS-Spikarna-in-situ-2018-11-07-B2.jpg"  width="300" align="left" >
+
 </p>
 
 <br/><br/>
