@@ -19,4 +19,3 @@ This repository contains the laters version of the handbook as appended document
 3.	Metadata sheet (example)
 4.	Sample overview sheet
 5.	Material Transfer Agreement (MTA)
-
