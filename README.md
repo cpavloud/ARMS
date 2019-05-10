@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.dropbox.com/s/b2xcbjkh23270y1/2018_ARMS_Spikarna_in_situ_2018_11_07_B.png?dl=0"  width="300" align="left" >
+  <img src="https://ibb.co/2jdFhyW"  width="300" align="left" >
 </p>
 
 <br/><br/>
