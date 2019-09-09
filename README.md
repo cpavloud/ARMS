@@ -19,4 +19,4 @@ This repository contains the latest version of the handbook, incl
 3.	Metadata sheet (example)
 4.	Sample overview sheet
 5.	Material Transfer Agreement (MTA)
-6. Link to Data analysis pipeline [P.E.M.A](https://github.com/hariszaf/pema)
+6.  Data analysis pipeline [P.E.M.A](https://github.com/hariszaf/pema)
