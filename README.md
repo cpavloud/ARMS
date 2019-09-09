@@ -13,9 +13,10 @@ The European ARMS program will consist of three annual cycles (2018, 2019, and 2
 
 The handbook in this repository gives an overview over the state of the activity, the network of sites and scientists, as well as the necessary protocols for ARMS deployment, retrieval and processing. The handboook is continuously updated.
 
-This repository contains the laters version of the handbook as appended documents, incl
+This repository contains the latest version of the handbook, incl
 1.	Project registration sheet (only relevant for new partners)
 2.	Metadata sheet (template) 
 3.	Metadata sheet (example)
 4.	Sample overview sheet
 5.	Material Transfer Agreement (MTA)
+6. Link to Data analysis pipeline [P.E.M.A](https://github.com/hariszaf/pema)
